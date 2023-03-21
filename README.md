@@ -1,3 +1,2 @@
-# cinema-app
+# CINEMA APPLICATION🎥
 
-# cinema-app
