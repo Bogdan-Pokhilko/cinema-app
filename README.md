@@ -11,8 +11,7 @@
 
 ## Available functions:
 
-###You will need to authorize first to be able to use these functions!!!***
-
+***You will need to authorize first to be able to use these functions!!!***
 
 As Admin:
 - You will be able to do CRUD operations with information about movies, movie sessions and cinema halls.
@@ -25,3 +24,19 @@ As User:
 
 As Guest:
 - You will be able to register.
+---
+
+## List of technologies that being used:
+- Java
+- Hibernate ORM
+- Spring (WEB, Security, MVC)
+- MySQL DB
+- Apache Tomcat
+- Apache Maven
+---
+
+## How to Run:
+- Install and configure Apache Tomcat.
+- Install and configure MySQL DB.
+- After you clone this project, you should fill up necessary information in the file /resources/db.properties
+- Start the application. Enjoy! 🥳
