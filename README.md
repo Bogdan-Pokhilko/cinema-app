@@ -27,12 +27,12 @@ As Guest:
 ---
 
 ## List of technologies that being used:
-- Java
-- Hibernate ORM
+- Java v.11
+- Hibernate ORM v.5.4.2
 - Spring (WEB, Security, MVC)
-- MySQL DB
-- Apache Tomcat
-- Apache Maven
+- MySQL DB v.8.0.32
+- Apache Tomcat v.9.0.71
+- Apache Maven v.3.1.1
 ---
 
 ## How to Run:
